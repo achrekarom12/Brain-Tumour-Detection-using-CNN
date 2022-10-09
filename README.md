@@ -1,5 +1,5 @@
 # Brain Tumour Detection using Convolutional Neural Networks
-Dataset used:  <br><br>
+Dataset used: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection?select=no <br><br>
 <b>Problem Statement:</b> To detect whether the patient have brain tumour or not from MRI Scans using Image processing and Convolutional Neural Network. <br><br>
 
 <b>Domain:</b> Deep Learning and Computer Vision <br><br>
