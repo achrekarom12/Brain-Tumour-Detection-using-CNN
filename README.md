@@ -4,7 +4,17 @@ Dataset used: https://www.kaggle.com/datasets/ahmedhamada0/brain-tumor-detection
 
 <b>Domain:</b> Deep Learning and Computer Vision <br><br>
 
-<b>Methodology:</b> <br><br>
+<b>Methodology:</b> <br>
+<ol>
+  <li>Store one hot encoded form of target class in an array fro both yes and no.</li>
+  <li>Split the data into train and test datasets.</li>
+  <li>Create the sequential model and compile it.</li>
+  <li>Fit the model with train data.</li>
+  <li>Plot the loss.</li>
+  <li>Predict the result by providing image path.</li>
+</ol>
+
+<br>
 
 <b>Why Deep Learning?</b><br>
 <ul>
